@@ -1,0 +1,13 @@
+name: py38-cameratrap-t2
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pillow
+  - scikit-image
+  - tensorflow
+  - click
+  - opencv
+  - python=3.8
+  - scikit-learn
+  - pandas
